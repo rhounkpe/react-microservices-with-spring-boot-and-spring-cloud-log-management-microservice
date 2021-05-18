@@ -1,6 +1,5 @@
 package be.digitcom.log.management.microservice.model;
 
-import com.datastax.oss.driver.api.core.type.DataType;
 import lombok.Data;
 import org.springframework.data.cassandra.core.mapping.CassandraType;
 import org.springframework.data.cassandra.core.mapping.Column;
